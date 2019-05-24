@@ -1,0 +1,986 @@
+,names,Location,Title
+0, Sid Sijbrandij ," San Francisco, CA, USA   "," Co-founder, Chief Executive Officer (CEO) "
+1, Marin Jankovski ," Amsterdam, The Netherlands   "," Engineering Manager, Delivery "
+2, Dmitriy 'DZ' Zaporozhets ," Kharkiv, Ukraine   "," Co-founder, Engineering Fellow "
+3, Robert Schilling ," Graz, Austria   ", Core Team member 
+4, Jacob Vosmaer ," Amsterdam, The Netherlands   "," Staff Backend Engineer, Gitaly "
+5, Haydn Mackay ," Alameda, CA, USA   "," Regional Sales Director, US West "
+6, Valery Sizov ," Kharkiv, Ukraine   "," Senior Backend Engineer, Geo "
+7, Douwe Maan ," Utrecht, The Netherlands   "," Engineering Manager, Create "
+8, Robert Speicher ," Nashville, TN, USA   "," Senior Backend Engineer, Delivery "
+9, Kamil TrzciÅski ," Warsaw, Poland   "," Staff Backend Engineer, Memory "
+10, Wilson Lau ," San Francisco, CA, USA   ", Controller 
+11, Richard 'Pidge' Pidgeon ," Bath, United Kingdom   "," Regional Sales Director, EMEA "
+12, Philip 'Phil' Camillo ," Denver, CO, USA   "," Account Executive, Mid-Market, Northwest "
+13, Bruce Armstrong ," San Francisco, CA, USA   ", Board of Directors 
+14, Emily Kyle ," Nashville, TN, USA   "," Manager, Corporate Events and Branding "
+15, Paul Machle ," San Francisco, CA, USA   ", Chief Financial Officer (CFO) 
+16, Drew Blessing ," Kearney, NE, USA   "," Staff Support Engineer, Self-managed (Americas East) "
+17, Yorick Peterse ," Hilversum, The Netherlands   "," Staff Backend Engineer, Delivery "
+18, RubÃ©n DÃ¡vila ," Lima, Peru   "," Backend Engineer, Fulfillment "
+19, Gabriel Mazetto ," Amsterdam, The Netherlands   "," Backend Engineer, Geo "
+20, Grzegorz Bizon ," Olsztyn, Poland   "," Senior Backend Engineer, Serverless "
+21, Douglas Barbosa Alexandre ," Lavras, Brazil   "," Senior Backend Engineer, Geo "
+22, Achilleas Pipinellis ," Montpellier, France   ", Technical Writer 
+23, Tomasz Maczukin ," Olsztyn, Poland   "," Backend Engineer, Verify (CI) "
+24, RÃ©my Coutable ," Cannes, France   "," Staff Engineer, Engineering Productivity "
+25, Luke Babb ," Colorado Springs, CO, USA   ", Designer 
+26, James Lopez ," A Coru a, Spain   "," Engineering Manager, Fulfillment (Interim) "
+27, Timo Schuit ," Hamburg, Germany   ", Strategic Account Leader 
+28, Kirsten Abma ," San Francisco, CA, USA   ", Corporate Events & Branding Manager 
+29, Zeger-Jan van de Weg ," Amersfoort, The Netherlands   "," Backend Engineer, Gitaly "
+30, Phil Hughes ," Liverpool, United Kingdom   "," Senior Frontend Engineer, Create "
+31, Felipe Artur ," Goi nia, GO, Brazil   "," Backend Engineer, Plan "
+32, David 'DJ' Mountney ," Victoria, Canada   ", Senior Distribution Engineer 
+33, Annabel Dunstone Gray ," Houston, TX, USA   "," Product Designer, Plan "
+34, Richard 'Reb' Baum ," Jamesburg, NJ, USA   ", Solutions Architect 
+35, Stan Hu ," San Francisco, CA, USA   ", Engineering Fellow 
+36, Mark Pundsack ," Wilmette, IL, USA   ", Head of Product 
+37, Sean McGivern ," Edinburgh, Scotland, United Kingdom   "," Engineering Manager, Plan "
+38, Mark Fletcher ," Edinburgh, Scotland, United Kingdom   "," Engineer, Engineering Productivity "
+39, Christian Couder ," Colombes, France   "," Senior Backend Engineer, Gitaly "
+40, Marcia Ramos ," Lisbon, Portugal   ", Technical Writer 
+41, Fatih Acet ," Almere, The Netherlands   "," Senior Frontend Engineer, Plan "
+42, Eliran Mesika ," Tel Aviv, Israel   ", Director of Partnerships 
+43, Mike Walsh ," San Francisco, CA, USA   ", Strategic Account Leader 
+44, Jen-Shin Lin ," Taipei, Taiwan   "," Engineer, Engineering Productivity "
+45, John Northrup ," Nashville, TN, USA   "," Site Reliability Engineer, Verify, Release, & Geo "
+46, Alejandro RodrÃ­guez ," Santiago, Chile   "," Site Reliability Engineer, Gitaly & Distribution "
+47, Luke Bennett ," Plymouth, United Kingdom   "," Frontend Engineer, Manage "
+48, Brittany Rohde ," Clarksville, TN, USA   ", Compensation & Benefits Manager 
+49, Chris Peressini ," Madrid, Spain   "," Product Designer, Manage "
+50, Hannes RosenÃ¶gger , Germany   , Core Team member 
+51, Taurie Davis ," Portland, OR, USA   "," Staff Product Designer, Configure "
+52, Alex Hanselka ," Austin, TX, USA   "," Site Reliability Engineer, Verify, Release, Fulfillment "
+53, Melissa Yue ," San Francisco, CA, USA   ", General Ledger Accountant 
+54, Julie Manalo ," Sydney, Australia   "," Account Executive, Mid-Market "
+55, Ahmad Sherif ," Amsterdam, The Netherlands   "," Site Reliability Engineer, Manage, Monitor & Configure "
+56, Abubakar Siddiq Ango ," Den Haag, The Netherlands   "," Support Engineer, Self-managed (EMEA) "
+57, Nick Thomas ," Shetland, United Kingdom   "," Staff Backend Engineer, Create "
+58, Arihant Godha ," Mumbai, India   "," Support Engineer, GitLab.com (APAC) "
+59," Jennifer ""JJ"" Cordz "," Washington State, USA   ", Marketing Operations Manager 
+60, Dimitrie Hoekstra ," Breda, The Netherlands   "," Product Designer, Verify (CI) "
+61, Francis Aquino ," New York, NY, USA   ", Director Sales Operations 
+62, Erica Lindberg ," Boulder, CO, USA   "," Manager, Content Marketing "
+63, Mike Greiling ," Minneapolis, MN, USA   "," Senior Frontend Engineer, Configure & Serverless "
+64, Athar Hameed ," Kuala Lumpur, Malaysia   "," Senior Support Engineer, Self-managed (APAC) "
+65, Pedro Moreira da Silva ," Lisbon, Portugal   "," Senior Product Designer, Create "
+66, Filipa Lacerda ," Aveiro, Portugal   "," Senior Frontend Engineer, Release (CD), Verify (CI) & Delivery "
+67, Joe Drumtra ," Las Vegas, NV, USA   ", Strategic Account Leader 
+68, Kyla Gradin ," Fargo, North Dakota, USA   ", SMB Customer Advocate 
+69, Elsje Smart ," Marazion, United Kingdom   "," Sales Development Manager, EMEA "
+70, James Edwards-Jones ," London, United Kingdom   "," Backend Engineer, Manage "
+71, Jason Plum ," Lancaster, Pennsylvania, USA   ", Senior Distribution Engineer 
+72, Emily von Hoffmann ," Sunnyvale, CA, USA   ", Social Marketing Manager 
+73, Clement Ho ," Austin, TX, USA   "," Frontend Engineering Manager, Monitor "
+74, Lee Matos ," New York City, USA   ", Support Engineering Manager (Americas East) 
+75, Ian Baum ," Hutchinson, MN, USA   ", Senior Distribution Engineer 
+76, Cindy Pallares ," Texas, USA   "," Support Engineer, Self-managed (Americas Central) "
+77, Kushal Pandya ," Pune, India   "," Senior Frontend Engineer, Plan & Geo "
+78, Jose Ivan Vargas ," Ciudad Guzman, Mexico   "," Frontend Engineer, Monitor "
+79, Rebecca Dodd ," London, United Kingdom   ", Managing Editor 
+80, Sarah O'Donnell ," Manchester, United Kingdom   "," UX Manager, Research (Interim) "
+81, James Komara ," Scottsdale, AZ, USA   "," Account Executive, Mid-Market, Southwest "
+82," Balasankar ""Balu"" C "," Kochi, Kerala, India   ", Distribution Engineer 
+83, Matija ÄupiÄ ," Belgrade, Serbia   "," Junior Backend Engineer, Verify (CI) "
+84, Harish Ramachandran ," Jacksonville, FL, USA   "," Support Engineer, Self-managed (Americas East) "
+85, Collen Kriel ," Cape Town, South Africa   "," Support Engineer, Self-managed (EMEA) "
+86, Toon Claes ," Herentals, Belgium   "," Backend Engineer, Geo "
+87, Jarka KoÅ¡anovÃ¡ ," Pilsen, Czech Republic   "," Backend Engineer, Plan "
+88, Xiaogang Wen æ¸©å°å ," Beijing, China   ", Solutions Architect - APAC Specialist 
+89, Mark Rogge ," Sunny San Diego California, USA   "," Regional Sales Director, US East "
+90, Oswaldo Ferreira ," S o Paulo, Brazil   "," Backend Engineer, Create "
+91, Joshua Lambert ," Philadelphia, USA   "," Senior Product Manager, Scaling "
+92, Eric Eastwood ," Twin Cities, Minnesota, USA   "," Backend Engineer, Gitter "
+93, Ben Kochie ," Berlin, Germany   "," Staff Backend Engineer, Monitor "
+94, Andrew Newdigate ," Cape Town, South Africa   "," Staff Site Reliability Engineer, Serverless, Gitter & Gitaly "
+95, Peter McCracken ," Boston, USA   "," Account Executive, Mid-Market, Northeast "
+96, Simon Knox ," Melbourne, Australia   "," Frontend Engineer, Monitor "
+97, Adam Johnson ," Golden, Colorado, USA   ", Strategic Account Leader 
+98, Mark Bell ," Lafayette, CO, USA   ", Strategic Account Leader 
+99, John May ," Centennial Colorado, USA   ", Strategic Account Leader 
+100, Adam Mulvany ," Melbourne, Australia   "," Support Engineer, Self-managed (APAC) "
+101, Adam Olson ," Wichita, KS, USA   ", Strategic Account Leader 
+102, Bob Van Landuyt ," Kortrijk, Belgium   "," Senior Backend Engineer, Create "
+103, Paul Almeida ," Washington D.C., USA   ", Director of Public Sector Sales 
+104, Vitaliy Klachkov ," Yuzhno-Sakhalinsk, Russia   ", Core Team member 
+105, Simon Williams ," Totnes, United Kingdom   ", Strategic Account Leader 
+106, Kristen Lawrence ," Arvada,Colorado, USA   ", Director of WW Customer Success 
+107, Conor Brady ," Dublin, Ireland   "," Account Executive, Mid-Market "
+108, Chloe Whitestone ," Bear, DE, USA   ", Technical Account Manager 
+109, Brent Caldwell ," Portland, OR, USA   ", Federal Inside Sales Manager 
+110, Jameson Burton ," Indiana, USA   ", Senior Business Development Representative 
+111, Tim Zallmann ," Vienna, Austria   "," Director of Engineering, Dev "
+112, Michael Kozono ," Granite Bay, CA, USA   "," Senior Backend Engineer, Geo "
+113, Winnie Hellmann ," Hannover, Germany   "," Frontend Engineer, Plan "
+114, Larry Biegel ," Ellicott City, MD, USA   ", Strategic Account Leader 
+115, John Woods ," Victoria, BC, Canada   ", Technical Account Manager 
+116, Jeffrey Broussard ," Boulder, CO, USA   "," Sales Development Manager, East & Central "
+117, Chenje Katanda ," Den Haag, The Netherlands   "," Support Engineer, Self-managed (EMEA) "
+118," David Thomas ""DT"" "," Santa Cruz, CA, USA   ", Solutions Architect 
+119, Shinya Maeda ," Kyoto, Japan   "," Backend Engineer, Release (CD) "
+120, Victor Hernandez ," Atlanta, GA, USA   ", Solutions Architect 
+121, Matt Doerfler ," Colorado, USA   "," Account Executive, Mid-Market, Mountain "
+122, John 'Jarv' Jarvis ," Ljubljana, Slovenia   "," Senior Site Reliability Engineer, Delivery "
+123, Jamie Hurewitz ," Minneapolis, MN, USA   "," VP of Legal - Commerical, IP & Compliance "
+124, Larry Augustin ," San Francisco, CA, USA   ", Board of Directors 
+125, Alessio Caiazza ," Florence, Italy   "," Senior Backend Engineer, Infrastructure "
+126, Joel Krooswyk ," Chicago, IL, USA   "," Manager, Customer Success, Mid-Market "
+127, Jordan Goodwin ," Boulder, CO, USA   ", Strategic Account Leader 
+128, MicaÃ«l Bergeron ," Qu bec, Canada   "," Backend Engineer, Meltano "
+129, Jacie Zoerb ," Salt Lake City, UT, USA   ", Recruiter 
+130, Nico Ochoa ," Fort Collins, CO, USA   ", Strategic Account Leader 
+131, Davin Walker ," American Fork, UT, USA   "," Support Engineer, Self-managed (Americas Central) "
+132, Cristine Sotomango Marquardt ," San Diego, CA, USA   ", Senior Billing Specialist 
+133, James Ramsay ," New York, NY, USA   "," Senior Product Manager, Create, Gitter, Gitaly "
+134, Chris Maurer ," Springfield, VA, USA   "," Manager, Customer Success, Public Sector "
+135, Alex Strachan ," Brisbane, Australia   "," Support Engineer, Self-managed (APAC) "
+136, David Wells ," Atlanta, Georgia, USA   ", Strategic Account Leader 
+137, Chris Cornacchia ," Longmont, CO, USA   ", Strategic Account Leader 
+138, Eric Johnson ," Walnut Creek, California, USA   ", VP of Engineering 
+139, Lanice Sims ," Philadelphia, PA, USA   ", Senior Business Development Representative 
+140, Francisco Javier LÃ³pez ," Murcia, Spain   "," Senior Backend Engineer, Create "
+141, Aric Buerer ," Kearney, NE, USA   "," Support Engineer, Self-managed (Americas Central) "
+142, William Chia ," Concord, CA, USA   "," Senior Product Marketing Manager , CI/CD & Ops "
+143, Jim Torres ," Newcastle, WA, USA   ", Strategic Account Leader 
+144, Mayra Cabrera ," Monterrey, Mexico   "," Backend Engineer, Infrastructure "
+145, Brendan O'Leary ," Annapolis, MD, USA   "," Senior Product Manager, Verify "
+146, Brett Walker ," Dallas, TX, USA   "," Senior Backend Engineer, Plan "
+147, Jesse Lovelace ," Wake Forest, NC, USA   ", Technical Account Manager 
+148, Kathy Wang ," Washington, DC, USA   ", Senior Director of Security 
+149, Jim Riley ," Arlington, VA, USA   ", Federal Strategic Account Leader 
+150, Nadia Vatalidis ," Johannesburg, South Africa   ", People Operations Generalist 
+151, Takuya Noguchi , Japan   , Core Team member 
+152, Hannah Schuler ," Denver, USA   "," Sales Development Manager, West "
+153, Andy Gunter ," Durham, USA   ", Technical Account Manager 
+154, Jan Provaznik ," Brno, Czech Republic   "," Senior Backend Engineer, Plan "
+155, Ralf 'gronk' Gronkowski ," Hamburg, Germany   ", Solutions Architect 
+156, Jessica Mitchell ," Chicago,IL, USA   ", People Business Partner 
+157, Brooke Williamson ," Seattle, WA, USA   ", Sales Development Representative 
+158, Paul E. Duffy ," Boston, MA, USA   ", Strategic Account Leader 
+159, Michael Hamilton ," San Francisco, CA, USA   "," Sales Development Manager, Onboarding and Enablement "
+160, Adam Pestreich ," Denver, CO, USA   ", SMB Customer Advocate 
+161, Thiago Presa ," Porto Alegre, Brazil   "," Support Engineer, Self-managed (Americas East) "
+162, David Astor ," Marietta, GA, USA   ", Solutions Architect 
+163, Constance Okoghenun ," Lagos, Nigeria   "," Frontend Engineer, Plan "
+164, Patrick Harlan ," Portland, OR, USA   ", Technical Account Manager 
+165, Katherine Okpara ," Berkeley, CA, USA   "," Junior UX Researcher, Dev "
+166, Justin Haley ," Basingstoke, United Kingdom   ", Strategic Account Leader 
+167, Ralph Kompare ," Highland,MD, USA   ", Federal Strategic Account Leader 
+168, Craig Pepper ," Nashville, TN, USA   ", Federal Sales Development Representative 
+169, James Ritchey ," San Jose, CA, USA   "," Intermim Security Manager, Application Security "
+170, Namho Kim ," Los Angeles, CA, USA   "," Support Engineer, GitLab.com (Americas West) "
+171, Luca Williams ," Austin, TX, USA   "," Product Manager, Fulfillment "
+172, Aricka Flowers ," Chicago, IL, USA   ", Digital Production Manager 
+173, Philippe CharriÃ¨re ," Lyon, France   ", Technical Account Manager 
+174, Jacopo Beschi ," Brescia, Italy   ", Core Team member 
+175, Lyle Kozloff ," Vancouver, BC, Canada   ", Support Engineering Manager (Americas West) 
+176, Diana Stanley ," Oakland, CA, USA   "," Senior Support Engineer, Self-managed (Americas West) "
+177, Laci 'Lah tsi' Videmsky ," Morro Bay, CA, USA   ", Implementation Engineer 
+178, Joe Miklos ," Oakland, CA, USA   ", Strategic Account Leader 
+179, Philippe LafoucriÃ¨re ," Qu bec City, QC, Canada   "," Distinguished Backend Engineer, Secure "
+180, Olivier Gonzalez ," Qu bec City, QC, Canada   "," Interim Engineering Manager, Secure "
+181, Fabien Catteau ," Compi gne, France   "," Staff Backend Engineer, Secure "
+182, Andreas Brandl ," Hamburg, Germany   "," Senior Database Reliability Engineer, Secure & Defend "
+183," Taylor A. Murphy, PhD "," Nashville, TN, USA   "," Staff Data Engineer, Architecture "
+184, Mario de la Ossa ," Managua, Nicaragua   "," Backend Engineer, Plan "
+185, Tony Scafidi ," Litchfield, NH, USA   ", Strategic Account Leader 
+186, Ashish Kuthiala ," Austin, TX, USA   ", Director of Product Marketing 
+187, AndrÃ© LuÃ­s ," Lisbon, Portugal   "," Frontend Engineering Manager, Create "
+188, Dylan Griffith ," Sydney, Australia   "," Engineering Manager, Configure "
+189, Suri Patel ," Los Angeles, CA, USA   "," Content Marketing Associate, Dev "
+190, Alexander Tanayno ," Novosibirsk, Russia   "," Support Engineer, Self-managed (APAC) "
+191, Jeremy Watson ," Richmond, CA, USA   "," Senior Product Manager, Manage "
+192, Jordan Bushong ," Saint Louis, MO, USA   ", Sales Development Representative 
+193, Vivian Goetz ," Pleasanton, CA, USA   ", Channel Sales Manager 
+194, Andrew Volianiuk ," Ternopil, Ukraine   ", Business Development Representative 
+195, Kristie McGoldrick ," Denver, CO, USA   ", Solutions Architect 
+196, Bill Duncan ," Richmond, VA, USA   ", Federal Sales Development Representative 
+197, Dennis Tang ," Berlin, Germany   "," Frontend Engineering Manager, Manage & Fulfillment "
+198, Lukas Eipert ," Leipzig, Germany   "," Interim Frontend Engineering Manager, Secure "
+199, Chase Wright ," Chattanooga, TN, USA   ", Finance Operations and Planning 
+200, Michael Miranda ," Los Angeles, CA, USA   ", SMB Customer Advocate 
+201, ÄorÄe Å umenkoviÄ ," Belgrade, Serbia   ", Junior Community Advocate 
+202, Anna Piaseczna ," Dublin, Ireland   ", Billing Specialist 
+203, Antonio Mimmo ," Bratislava, Slovakia   "," Field Marketing Manager, EMEA "
+204, John Jeremiah ," Melbourne, FL, USA   "," Manager, Product Marketing, Dev "
+205, Mek Stittri ," Mountain View, CA, USA   ", Interim Director of Quality Engineering 
+206, LJ Banks ," Boston Area, MA, USA   "," Manager, Digital Marketing Programs "
+207, Emily Mowry ," Boulder, CO, USA   ", Candidate Experience Specialist 
+208, Borivoje 'Bora' Tasovac ," Belgrade, Serbia   ", Junior Community Advocate 
+209, Roger Ostrander ," Washington, DC, USA   "," Senior Security Engineer, Abuse Operations "
+210, Jackie Collins ," Lakeland, FL, USA   "," Support Agent, GitLab.com (Americas East) "
+211, Dan Gordon ," San Jose, CA, USA   "," Manager, Technical Product Marketing "
+212, Michael Snow ," San Francisco, CA, USA   ", Business Systems Administrator 
+213, Julie Armendariz ," Dallas, TX, USA   ", People Business Partner 
+214, Julius Kvedaras ," Dublin, Ireland   "," Support Engineer, Self-managed (EMEA) "
+215, DeAndre Harris ," Chicago, USA   "," Support Agent, GitLab.com (Americas Central) "
+216, Mark Cesario ," Golden, CO, USA   ", Solutions Architect 
+217, Lisa van de Kooij ," Groningen, The Netherlands   ", Senior Business Development Representative 
+218, Anastasia Pshegodskaya ," Moscow, Russia   ", Senior Recruiting Sourcer 
+219, Daisy Miclat ," Reading, United Kingdom   ", Sales Development Representative 
+220, Antony Saba ," Albuquerque, NM, USA   ", Senior Threat Intelligence Engineer 
+221, Ash McKenzie ," Geelong, Australia   "," Staff Backend Engineer, Geo "
+222, Dalia Havens ," Austin, TX, USA   "," Director of Engineering, Ops "
+223, Matej Latin ," Edinburgh, Scotland, United Kingdom   "," Senior Product Designer, Manage "
+224, Yannis Roussos ," Athens, Greece   "," Senior Backend Engineer, Meltano Specialist "
+225, Jarek Ostrowski ," Bedford, NH, USA   "," Product Designer, Create "
+226, Guenjun Yoo/ì ê·¼ì¤/åªæ ¹æ¿¬ ," Sydney, Australia   ", Solutions Architect 
+227, Mike Lewis ," New York, NY, USA   ", Technical Writing Manager 
+228, Paul Slaughter ," Dallas, TX, USA   "," Frontend Engineer, Create "
+229, Daniel Gruesso ," Atlanta, GA, USA   "," Product Manager, Configure "
+230, Matt Beadle ," Seattle, WA, USA   ", Sales Development Representative 
+231, Brian Wald ," Traverse City, MI, USA   "," Manager, Solutions Architects - US East "
+232, Steve Pestorich ," Canyon Lake, TX, USA   "," Recruiting Manager, Engineering "
+233, Dave Smith ," Erie, CO, USA   "," Engineering Manager, Reliability Engineering, CI/CD & Enablement "
+234, Michael McBride ," San Mateo, CA, USA   ", Chief Revenue Officer (CRO) 
+235, Mark Chao ," Taipei, Taiwan   "," Backend Engineer, Create "
+236, Imre Farkas ," Budapest, Hungary   "," Senior Backend Engineer, Manage "
+237, Andrew Winata ," Sydney, Australia   "," Junior Support Engineer, Self-managed (APAC) "
+238, Wayne Zhao ," Melbourne, Australia   ", Sales Development Representative 
+239, Sam Beckham ," Stockton-on-Tees, United Kingdom   "," Frontend Engineer, Secure "
+240, Westley van den Berg ," Cape Town, South Africa   "," Senior Security Analyst, Anti-Abuse "
+241, Agnes Oetama ,null, Senior Marketing Program Manager 
+242, Tom Cooney ," Martinez, CA, USA   ", Director of Support 
+243, Sean Billow ," Longmont, CO, USA   ", Strategic Account Leader 
+244," Vilius ""Kavas"" Kavaliauskas "," Vilnius, Lithuania   ", SMB Customer Advocate 
+245, Leslie Blanchard ," Raleigh, NC, USA   "," Senior Field Marketing Manager, U.S. East and Public "
+246, Cindy Blake ," Bryan, TX, USA   "," Senior Product Marketing Manager, Security Specialist "
+247, Alin Ciciu ," Canterbury, Kent, United Kingdom   "," Support Engineer, Self-managed (EMEA) "
+248, Andy Volpe ," Cleveland, OH, USA   "," Product Designer, Secure "
+249, Michael Leopard ," Columbia, MD, USA   ", Federal Implementation Engineer 
+250, Thomas La Piana ," Dallas, TX, USA   ", Senior Data Engineer 
+251, Devin Sylva ," Haiku, HI, USA   "," Senior Site Reliability Engineer, Package, Geo "
+252," Gerardo ""Gerir"" Lopez-Fernandez "," Valencia, Spain   "," Director of Engineering, Infrastructure "
+253, Jay Jewell ,null, Federal Sales Development Representative 
+254, Alexis D Shaw ," Palm Beach County, FL, USA   ", Federal Sales Development Representative 
+255, Marcus Stangl , USA   , Sales Development Representative 
+256, Glenn Perez ,null, Sales Development Representative 
+257, Emilie Schario ," Savannah, GA, USA   "," Data Engineer, Analytics "
+258, Alex 'AT' Turner ," San Francisco, CA, USA   ", Director of Sales Development 
+259, Stephanie Garza ," Saginaw, MI, USA   ", Diversity Sourcing Specialist 
+260, Cynthia 'Arty' Ng ," Duncan, BC, Canada   "," Senior Support Agent, GitLab.com (Americas West) "
+261, Shane Rice ," Pensacola, FL, USA   "," Digital Marketing Programs Manager, Search Engine Marketing Specialist "
+262, Kim Lock ," Fort Collins, CO, USA   ", Reference Program Manager 
+263, Kaleb Hill ," Atlanta, GA, USA   ", Sales Development Representative 
+264, Dan Davison ," Seattle, WA, USA   "," Senior Test Automation Engineer, Configure "
+265, Joyce Tompsett ," Tracy, CA, USA   ", Analyst Relations Manager 
+266, Kevin McKinley ," Los Angeles, CA, USA   ", Sales Development Representative 
+267, Elliot Rushton ," Vancouver, BC, Canada   "," Engineering Manager, Verify (CI) "
+268, Tina Sturgis ," Detroit Metro Area, MI, USA   "," Senior Product Marketing Manager, Partner & Channel Specialist "
+269, Jenny Nguyen ," Dallas, TX, USA   ", Payroll and Payments Lead 
+270, Joseph Davidson ," Portland, OR, USA   ", Sales Development Representative 
+271, Ray Paik ," Sunnyvale, CA, USA   ", Code Contributor Program Manager 
+272, Priyanka Sharma ," San Francisco, USA   ", Director of Technical Evangelism 
+273, Ronald van Zon ," Didam, The Netherlands   "," Support Engineer, Self-managed (EMEA) "
+274, Marc Kriz ," Alexandria, VA, USA   ", Federal Strategic Account Leader 
+275, Steve Grossman ," Dallas, TX, USA   ", Solutions Architect 
+276, Steve Azzopardi ," Gozo, Malta   "," Backend Engineer, Verify (CI) "
+277, Jason Lenny ," Utrecht, The Netherlands   "," Director of Product, CI/CD "
+278, Tristan Williams ," Los Angeles, CA, USA   "," Support Agent, GitLab.com (Americas West) "
+279, Pete Raumann ," Frederick, MD, USA   ", Federal Solutions Architect 
+280, Jerome Uy ," Manila, Philippines   "," Support Agent, GitLab.com (APAC) "
+281, Thong Kuah ," Wellington, New Zealand   "," Senior Backend Engineer, Configure "
+282, Craig Barrett ," Seattle, WA, USA   "," Senior Site Reliability Engineer, Defend & Secure "
+283, John T Skarbek ," Raleigh, NC, USA   "," Senior Site Reliability Engineer, Delivery "
+284, Sarah 'Sharky' Orell ," Sydney, Australia   ", Strategic Account Leader 
+285, Mark Lapierre ," State College, PA, USA   "," Senior Test Automation Engineer, Create "
+286, Tom Atkins ," Cork, Ireland   ", Support Engineering Manager (EMEA) 
+287, David Fisher ," San Diego, CA, USA   ", Sales Development Representative 
+288, Adriel Santiago ," Charlotte, NC, USA   "," Senior Frontend Engineer, Monitor "
+289, Jan Urbanc ," Vrhnika, Slovenia   "," Security Manager, Security Operations "
+290, David Tacheny ," North Hollywood, CA, USA   ", Manager of Professional Services 
+291, Kevin Pursel ," St. George, Utah, USA   ", Recruiting Director 
+292, Will Chandler ," Columbus, OH, USA   "," Senior Support Engineer, Self-managed (Americas East) "
+293, Muhamed HuseinbaÅ¡iÄ ," Sarajevo, Bosnia and Herzegovina   "," Support Engineer, Self-managed (EMEA) "
+294, Peter Kunkli ," Budapest, Hungary   ", Sales Development Representative 
+295, Brandy Brachthuizer ," Lelystad, The Netherlands   ", Sales Development Representative 
+296, Matt Walsh ," New York, NY, USA   ", Sales Development Representative 
+297, Ramya Authappan ," Chennai, India   "," Interim Quality Engineering Manager, Dev "
+298, Brandon Jung ," Golden, CO, USA   ", VP of Alliances 
+299, Sanad Liaquat ," Karachi, Pakistan   "," Senior Test Automation Engineer, Manage "
+300, Cody West ," Tulsa, OK, USA   "," Support Engineer, Self-managed (Americas West) "
+301, Jason Colyer ," Friendswood, Texas, USA   ", Support Engineering Manager (Americas Central) 
+302, Blair Lunceford ," Steamboat Springs, CO, USA   "," Support Engineer, Self-managed (Americas Central) "
+303, Walter Zabaglio ," Portland, Oregon, USA   ", Director of Business Operations 
+304, Mark Robinson ," Alexandria,VA, USA   ", Federal Channel Sales Manager 
+305, Matthew Jacobson ," San Francisco, CA, USA   ", Board of Directors 
+306, Robert Marshall ," Tampa, Florida, USA   ", Distribution Engineer 
+307, Martin Wortschack ," Vienna, Austria   "," Senior Frontend Engineer, Manage "
+308, Jackie Gragnola ," San Francisco, CA, USA   ", Marketing Program Manager 
+309, Zsuzsanna Marta Kovacs ," Budapest, Hungary   ", Sourcing Specialist 
+310, Evan Read ," Brisbane, Australia   ", Senior Technical Writer 
+311, Amarbayar Amarsanaa ," Ulaanbaatar, Mongolia   "," Senior Site Reliability Engineer, Create, Plan, Monitor "
+312, Melissa Farber ," Austin, TX, USA   "," Security Manager, Compliance "
+313, Seth Engelhard ," New York, NY, USA   "," Engineering Manager, Monitor Debugging & Health "
+314, David Planella ," Cologne, Germany   ", Director of Community Relations 
+315, Emily Luehrs ," Campbell, CA, USA   "," Field Marketing Manager, US West "
+316, Liam McAndrew ," London, United Kingdom   "," Engineering Manager, Manage "
+317, Jose Cores Finotto ," Berlin, Germany   "," Engineering Manager, Reliability Engineering, Dev & Ops "
+318, Rachel Nienaber ," Surrey, United Kingdom   "," Engineering Manager, Geo "
+319, Trust Ogor ," Lagos, Nigeria   ", Technical Recruiter 
+320, Dennis Appelt ," Luxembourg, Luxembourg   "," Sr. Security Engineer, Security Research "
+321, Peter Leitzen ," Bochum, Germany   "," Senior Backend Engineer, Monitor "
+322, Alexander Dietrich ," Hamburg, Germany   "," Senior Security Engineer, Automation "
+323, Matthew Donovan ," Richmond, VA, USA   ", Legal Intern 
+324, Caroline Wainaina ," Nairobi, Kenya   "," Support Agent, GitLab.com (EMEA) "
+325, Amelia Bauerly ," Portland, OR, USA   "," UX Designer, Monitor & Package "
+326, Jenny Chapman ," Wilmington, DE, USA   ", Business Development Representative 
+327, Shawn Winters ," Santa Maria, CA, USA   ", Sales Development Representative 
+328, Jacques Erasmus ," Cape Town, South Africa   "," Frontend Engineer, Configure & Serverless "
+329, George Tsiolis ," Athens, Greece   ", Core Team member 
+330, Shawn Sichak ," Johnstown, PA, USA   "," Security Engineer, Security Operations "
+331, Hugh Christey ,null, Strategic Account Leader 
+332, Amanda Rueda ," Guanajuato, Mexico   "," Support Agent, GitLab.com (Americas Central) "
+333, Kelly Murdock ," Suffield, CT, USA   "," Recruiting Manager, Sales, Marketing, & G&A "
+334, David Coy ," San Antonio, TX, USA   "," Support Engineer, Self-managed (Americas Central) "
+335, Ethan Strike ," Vi a del Mar, Chile   "," Interim Security Manager, Application Security "
+336, Eva Petreska ," Toronto, Canada   ", Technical Recruiter 
+337, Cheri Holmes ," Dublin,CA, USA   "," Manager, Executive Assistant "
+338, Tony Carella ," Cincinnati, OH, USA   "," Security Engineer, Security Operations "
+339, Reuben Pereira ," Goa, India   "," Backend Engineer, Monitor "
+340, Kike Adio ," Lagos, Nigeria   ", Candidate Experience Specialist 
+341, Kelly Hair ," Westfield, NJ, USA   ", Solutions Architect 
+342, Akeela Logan ," Atlanta, Georgia, USA   ", Billing Specialist 
+343, John Hampton ," Tampa, FL, USA   "," Frontend Engineering Manager, Release (CD), Verify (CI) & Package "
+344, Scott Hampton ," Mesa, Arizona, USA   "," Frontend Engineer, Verify (CI) "
+345, Aashish Sharma ," Boston, MA, USA   ", Sales Development Representative 
+346, Ryan Kimball ,null, Sales Development Representative 
+347, Henri Philipps ," Potsdam, Germany   "," Senior Site Reliability Engineer, Secure & Defend "
+348, Hendrik Meyer ," Hamburg, Germany   "," Site Reliability Engineer, Dev & Ops "
+349, Sam Bigelow ," Cincinnati, OH, USA   "," Frontend Engineer, Create "
+350, Rayana Verissimo ," Amsterdam, The Netherlands   "," Senior Product Designer, Release (CD) "
+351, Karen McKinney ," Arizona, USA   ", Billing Specialist 
+352, Tye Davis ," Sacramento, CA, USA   ", Technical Marketing Manager 
+353, Todd Barr ," Raleigh, NC, USA   ", Chief Marketing Officer 
+354, Aakif Nazir ," EMEA, Remote "," Support Agent, GitLab.com (EMEA) "
+355, Matt Nguyen ," San Luis Obispo, CA, USA   "," Digital Marketing Programs Manager, Digital Marketing Specialist "
+356, Adrian Waters ," Newbury, United Kingdom   ", Solutions Architect 
+357, Ben Bodenmiller , USA   , Core Team member 
+358, Ben Hong ," Washington D.C., USA   "," Senior Frontend Engineer, Meltano "
+359, Brandon Labuschagne ," Cape Town, South Africa   "," Frontend Engineer, Manage "
+360, Kenny Johnston ," Kansas City, KS, USA   "," Director of Product, Ops Products "
+361, Logan King ," Fort Collins, CO, USA   "," Backend Engineer, Monitor "
+362, Robert Mitchell ," Sydney, Australia   "," Interim Security Manager, Strategic Security "
+363, Shaun McCann ," Sydney, Australia   ", Support Engineering Manager (APAC) 
+364, David Hong ," Oakland, CA, USA   ", VP of Field Operations 
+365, Tetiana Chupryna ," Kharkiv, Ukraine   "," Backend Engineer, Secure "
+366, Emily Cook ," San Antonio, TX, USA   ", Senior Community Advocate 
+367, Sarah Voegeli ," Golden, CO, USA   "," Senior Product Designer, Monitor & Package "
+368, Tristan Read ," Berlin, Germany   "," Frontend Engineer, Monitor "
+369, Yun Guo ," Highland Park, NJ, USA   "," Senior Database Reliability Engineer, Dev & Ops "
+370, Heinrich Lee Yu ," Cebu, Philippines   "," Backend Engineer, Plan "
+371, Joseph Valeriano ," Castle Rock, CO, USA   ", Federal Solutions Architect 
+372, Anthony Seguillon ," Budapest, Hungary   ", Sales Development Representative 
+373, Joe McKairnes ," Phila., PA, USA   ", Federal Solutions Architect 
+374, Cindy Nunez ," Gilroy, CA, USA   ", Senior Accounting Operations Manager 
+375, Natalia Tepluhina ," Kyiv, Ukraine   "," Senior Frontend Engineer, Create "
+376, Lewis Brown ," McMinnville, OR, USA   "," Support Engineer, Self-managed (Americas West) "
+377, Peter Huynh ," Sydney, Australia   ", Field Marketing Manager - APAC 
+378, Derek Knox ," Moscow, ID, USA   "," Senior Frontend Engineer, Meltano "
+379, Ryan O'Nell ," Belmont, CA, USA   ", VP of Commercial Sales 
+380, Hossein Pursultani ," Melbourne, Australia   ", Distribution Engineer 
+381, Fernando Arias ," Austin, TX, USA   "," Senior Frontend Engineer, Secure "
+382, Nathan Friend ," Charlottetown, PEI, Canada   "," Senior Frontend Engineer, Release "
+383, Rajat Jain ," Bangalore, India   "," Frontend Engineer, Plan "
+384, Jeff Lackey ," Georgia, USA   "," Account Executive, Mid-Market, Southeast "
+385, John Coghlan ," New York, NY, USA   ", Evangelist Program Manager 
+386, Eric Brinkman ," San Antonio, TX, USA   "," Director of Product, Dev Products "
+387, Darby Frey ," Chicago, IL, USA   "," Engineering Manager, Release (CD) "
+388, Phil McKenzie Smith ," Mary Tavy, Devon, United Kingdom   ", Strategic Account Leader 
+389, John Cai ," Diamond Bar, CA, USA   "," Backend Engineer, Gitaly "
+390, Brian Cupini ," San Diego, CA, USA   ", Technical Account Manager 
+391, JoÃ£o Cunha ," Berlin, Germany   "," Backend Engineer, Configure "
+392, New Vacancy ," Anywhere, Remote "," Backend Engineer, Serverless "
+393, Jeff Burrows ," Seattle, WA, United States   "," Interim Security Manager, Compliance "
+394, Anthony Sandoval ," Chicago, IL, USA   "," Engineering Manager, Reliability Engineering, Secure & Defend "
+395, Paul Harrison ," Winnipeg, Canada   "," Interim Security Manager, Security Operations "
+396, Victor Zagorodny ," Kharkiv, Ukraine   "," Senior Backend Engineer, Secure "
+397, Lucas Charles ," Portland, OR, USA   "," Senior Backend Engineer, Secure "
+398, April Hoffbauer ," Seward, NE, USA   ", Senior Candidate Experience Specialist 
+399, Stefanie Haynes ," Broomfield, CO, USA   ", Senior Executive Assistant 
+400, James Fargher ," Wellington, New Zealand   "," Senior Backend Engineer, Configure "
+401, Timothy Noah ," London, United Kingdom   "," Senior Product Designer, Secure "
+402, Nik Sarosy ," Cincinnati, OH, United States   "," Senior Security Analyst, Compliance "
+403, Michael LeBeau ," Denver, CO, USA   ", Sales Development Representative 
+404, Eric Hendricks ," Kansas City, MO, USA   "," Solutions Architect, Midmarket "
+405, Luke Duncalfe ," Auckland, New Zealand   "," Backend Engineer, Create "
+406, Tomislav NikiÄ ," Schwechat, Austria   "," Test Automation Engineer, Create "
+407, Jayson Salazar ," Heidelberg, Germany   "," Security Engineer, Security Operations "
+408, Bruno Lazzarin ," Buenos Aires, Argentina   ", Business Development Representative 
+409, Josh Rector ," Buford, GA, USA   ", Solutions Architect 
+410, Sarah Yasonik ," Seattle, WA, USA   "," Backend Engineer, Monitor "
+411, Dan Peric ,null, Implementation Engineer 
+412, Casey Allen Shobe ," Springville, Utah, USA   "," Senior Database Reliability Engineer, CI/CD & Enablement "
+413, James McGrew ," Beaverton, OR, USA   "," Support Engineer, Self-managed (Americas West) "
+414, Francis Potter ," Valencia, CA, USA   ", Solution Architect 
+415, Monica Williams ," Chicago, IL, USA   ", Technical Account Manager 
+416, Ezekiel Kigbo ," Sydney, Australia   "," Frontend Engineer, Manage "
+417, S.C. ," Anywhere, USA   ", Sales Development Representative 
+418, Andrew Fontaine ," Sault Ste. Marie, ON, Canada   "," Frontend Engineer, Release (CD) "
+419, Miranda Fluharty ," Fort Collins, Colorado, USA   "," Frontend Engineer, Verify (CI) "
+420, Patrick Bajao ," Manila, Philippines   "," Backend Engineer, Create "
+421, Vladimir Shushlin ," Moscow, Russia   "," Backend Engineer, Release (CD) "
+422, Zeff Morgan ," Versailles, Kentucky, USA   "," Senior Test Automation Engineer, Verify "
+423, Nichole LaRue ," California, USA   ", Marketing Operations Manager 
+424, Robert Kohnke ," Oregon, USA   ", Marketing Operations Manager 
+425, Paul Okstad ," Huntington Beach, CA, USA   "," Senior Backend Engineer, Gitaly "
+426, Alex Mrvaljevich ," Sydney, New South Wales, Australia   ", Data Analyst 
+427, Hailey Pobanz ," Amsterdam, Netherlands   ", Strategic Account Leader 
+428, Ramona Elliott ," Austin, United States   ", Business Development Senior Manager 
+429, Maxwell Power ," Edmonton, AB, Canada   ", Technical Account Manager 
+430, Liam McNally , Sydney , Senior Recruiter 
+431, Carol Teskey ," Dublin, Ireland   "," Director, Global People Operations "
+432, Patrick Derichs ," Bochum, Germany   "," Backend Engineer, Plan "
+433, Sara Ahbabou ," Sunnyvale, CA, USA   "," Support Engineer, Self-managed (Americas West) "
+434, Tiger Watson ," Melbourne, Australia   "," Senior Backend Engineer, Configure "
+435, Igor Drozdov ," Minsk, Belarus   "," Backend Engineer, Create "
+436, Cameron S McFarland ," Cary, NC, USA   "," Senior Site Reliability Engineer, Package, Fulfillmnet, Distribution "
+437, Denys Mishunov ," T nsberg, Norway   "," Senior Frontend Engineer, Create "
+438, Michal Wasilewski ," Warsaw, Poland   "," Site Reliability Engineer, Create & Plan "
+439, Christopher Lefelhocz ," Texas, USA   ", Senior Director of Development 
+440, Jeff Reid ," Boyce,VA, USA   ", Federal Strategic Account Leader 
+441, Susannah Reed ," Gaithersburg, MD, USA   ", Federal Strategic Account Leader 
+442, Sophie Pouliquen ," Cincinnati, Ohio, USA   ", Technical Account Manager 
+443, Kevin Chasse ," Millersville, Maryland, USA   ", Federal Technical Account Manager 
+444, Matt Allen ," Austin, TX, USA   ", Senior Technical Recruiter 
+445, Betsy Church ," Charlotte, NC, USA   ", Employment Branding Lead 
+446, Mike Lindsay ," Beaverton, OR, USA   ", Implementation Engineer 
+447, Hugo Azevedo ," Erie, Colorado, USA   ", Technical Account Manager 
+448, Melissa Smolensky ," San Francisco, CA, USA   ", Senior Director of Corporate Marketing 
+449, Dan Carroll ," Arlington, VA, US   "," Federal Strategic Account Leader, Department of Defense Agencies "
+450, Danae Villarreal ," Redding, CA, USA   ", Sales Development Representative 
+451, Luka Trbojevic ," Seattle, WA, USA   "," Senior Security Analyst, Compliance "
+452, Mayank Tahilramani ," Seattle, WA, USA   ", Alliance Manager 
+453, Christie Lenneville ," San Antonio, TX, USA   ", UX Director 
+454, Mark Florian ," London, United Kingdom   "," Senior Frontend Engineer, Secure "
+455, MaÅgorzata Ksionek ," Warsaw, Poland   "," Senior Backend Engineer, Manage "
+456, Pavel Shutsin ," Minsk, Belarus   "," Senior Backend Engineer, Manage "
+457, Donald Cook ," Chicago, IL, USA   "," Frontend Engineering Manager, Plan "
+458, Alexandru Croitor ," Chisinau, Moldova   "," Backend Engineer, Plan "
+459, Virjinia Alexieva ," New York, USA   "," Senior Product Manager, Manage "
+460, Catarina Ferreira ," Dublin, Ireland   ", Technical Recruiter 
+461, Wei-Meng Lee æä¼æ ," Singapore, Singapore   ", Support Engineer (APAC) 
+462, Sheetal Jain ," Toronto, Canada   ", Senior Internal Audit Manager 
+463, Cathy Richards ," New York, NY, USA   ", Data Analyst 
+464, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+465, New Vacancy ," Americas West, Remote "," Support Agent, Gitlab.com (Americas West) "
+466, Jay Thomas-Burrows ," Sydney, Australia   "," Sales Development Manager, APAC "
+467, Erich Wegscheider ," Boulder, CO, USA   ", Talent Operations Specialist 
+468, Lauren Conway ," Scottsdale, AZ, USA   ",  Senior Corporate Events Manager 
+469, Chrissie Buchanan ," Atlanta, GA, USA   "," Content Marketer, Ops "
+470, Enrique AlcÃ¡ntara ," Santo Domingo, Dominican Republic   "," Senior Frontend Engineer, Configure & Serverless "
+471, Chris Novello ," Round Hill, VA, USA   ", Federal Channel Sales Manager 
+472, Vlad Budica ," Bucharest, Romania   ", Solutions Architect 
+473, Cassiana Gudgenov ," Durham, NC, USA   ", People Operations Specialist 
+474, Madeleine Clark ," Brooklyn, NY, USA   ", Product Operations 
+475, Tanya Pazitny ," Portland, OR, USA   "," Interim Quality Engineering Manager, Secure & Enablement "
+476, Sarah Groff Hennigh-Palermo ," Brooklyn, NY, USA   "," Senior Frontend Engineer, Verify (CI) "
+477, Rupert Douglas ," London, United Kingdom   ", Technical Recruiter 
+478, Chantal Rollison ," Seattle, WA, USA   ", Candidate Experience Specialist 
+479, Ross Fuhrman ," Kansas City, KS, USA   "," Backend Engineer, Secure "
+480, Marcus Carter ,null, Senior Sales Recruiter 
+481, Mark Loveless ," Arlington, TX, USA   "," Senior Security Engineer, Security Research "
+482, Joe Zelazny ," Rochester, NY, USA   ", Learning and Development Partner 
+483, Shane Peters ,null," Security Engineer, Security Operations "
+484, Danielle Morrill ,null," General Manager, Meltano "
+485, Heather Simpson ,null," Senior External Communications Analyst, Security "
+486, Usha Swaminathan ,null," Senior Security Analyst, Compliance "
+487, Clinton Sprauve ," Fort Worth, Texas, USA   ", Competitive Intelligence Marketing Manager 
+488, Lisbeth Vinueza ," Quito, Ecuador   ", Support Operations Specialist 
+489, David Hornik ," Menlo Park, CA, USA   ", Board of Directors 
+490, Randy Gottfried ," San Francisco, CA, USA   ", Advisor 
+491, George Hoyem ," San Francisco, CA, USA   ", Board Observer 
+492, Hemant Taneja ," Palo Alto, CA, USA   ", Board Observer 
+493, Igor Groenewegen-Mackintosh ," Amsterdam, The Netherlands   ", Director of Tax 
+494, New Vacancy - Lukas E. (interim) ,null," Frontend Engineering Manager, Secure "
+495, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Secure "
+496, New Vacancy ,null," Backend Engineer, Secure "
+497, New Vacancy ,null," Engineering Manager, Activation and Upsell "
+498, New Vacancy - Jan Provaznik (Borrowed 2019-05-08 to 2019-07-07) ," Anywhere, Remote "," Backend Engineer, Memory "
+499, New Vacancy ," EMEA, Remote "," Support Agent, Gitlab.com (EMEA) "
+500, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+501, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+502, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+503, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Fulfillment "
+504, Sarah Daily ," Texas, USA   "," Digital Marketing Programs Manager, Digital Marketing Specialist "
+505, Juan Broullon , Andorra   ," Senior Security Engineer, Application Security "
+506, Jefferson Jones ," Las Vegas, NV, USA   "," Solutions Architect, Midmarket "
+507, Ryan Cobb ," Salt Lake City, UT, USA   "," Backend Engineer, Monitor "
+508, Walmyr Lima e Silva Filho ," Amsterdam, Netherlands   "," Senior Test Automation Engineer, Plan "
+509, Alexis Ginsberg ," Chicago, IL, USA   "," Senior Product Designer, Plan "
+510, Kyle Mann ," Washington D.C., USA   "," Senior Product Designer, Secure "
+511, Melody Maradiaga ," Hindsville, AR, USA   ", Accounting and External Reporting Manager 
+512, John Zacharia ," New York, NY, USA   ", Strategic Account Leader 
+513, Itzik Gan-Baruch ," Tel Aviv, Israel   ", Technical Marketing Manager 
+514, Paul Oakley ," Oregon, USA   ", Sales Development Representative 
+515, Thomas Woodham ," Annandale, VA, USA   "," Engineering Manager, Secure "
+516, Vanessa Wheeler ," Los Angeles, CA, USA   ", Executive Assistant 
+517, Ashokraj Manikavasagam , India   , Database Reliability Engineer 
+518, Britney Sabbah-Mani ,null, Senior Sales Recruiter 
+519, Alex Groleau ," Atlanta, GA, USA   "," Senior Security Engineer, Automation "
+520, Lori Lamb ," Garner, NC, USA   ", Accounts Payable Specialist 
+521, Greg Myers ," Panguitch, Utah, USA   "," Support Engineer, Self-managed (Americas Central) "
+522, Ramakrishnan Hariharan ," Chennai, India   ", Senior Technical Accounting Manager 
+523, Brooks Royer ," Anywhere, USA   ", Finance Business Partner 
+524, Cristiano Casella ," Florence, Italy   ", Technical Account Manager 
+525, Amber Lammers ," Baltimore, MD, USA   ", IT Operations System Administrator 
+526, C.C. ,null, Technical Account Manager 
+527, K.S. ,null,  
+528, Drew Cimino ," New York, NY, United States   "," Backend Engineer, Verify (CI) "
+529, Kim Stithem ," Rio Rancho, NM, United States   ", Senior Accounting Manager 
+530, Russell Dickenson ," Brisbane, Australia   ", Senior Technical Writer 
+531, Colin Fletcher ," Pflugerville, TX, USA   "," Manager, Market Research and Customer Insights "
+532, Jason Goodman ," New York, NY, USA   "," Backend Engineer, Release (CD) "
+533, Illya Klymov ," Kharkiv, Ukraine   "," Senior Frontend Engineer, Manage "
+534, Marcel van Remmerden ," Hamburg, Germany   "," Senior Product Designer, Create "
+535, Kripa Joshi ," New York, NY, USA   ", Technical Account Manager 
+536, Krasimir Angelov ," Kapiti Coast, New Zealand   "," Backend Engineer, Release (CD) "
+537, Cyndi Walsh ," Bulverde, TX, USA   ", Senior Technical Recruiter 
+538, Brad Downey ," Laguna Beach, CA, USA   ", Strategic Account Leader (Los Angeles) 
+539, Bartek Marnane ," Sydney, Australia   "," Director of Engineering, Growth "
+540, Alex Tkach ," New York, USA   ", Sr Sales Operations Manager 
+541, Charlie Ablett ," Motueka, New Zealand   "," Senior Backend Engineer, Plan "
+542, V.R. ," Anywhere, Remote ", Sourcer 
+543, Shannon Silmon ," California, USA   ", Billing Specialist 
+544, Cullen Taylor ," Austin, TX, USA   "," Technical Marketing Manager, Could Native "
+545, A.D. ," Anywhere, Remote "," Solutions Architect, Federal "
+546, Ana Desai ," Ashburn, VA, USA   ", Federal Solutions Architect 
+547, Sean Delea ," Dublin, Ireland   ", Recruiter 
+548, Trevor Knudsen ," New York, NY, United States   ", People-Operations-Specialist 
+549, Dave Munchiello ," San Francisco, CA, USA   ", Board Observer 
+550, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Release "
+551, New Vacancy - John Hampton (Interim) ," Anywhere, Remote "," Frontend Engineering Manager, Verify "
+552, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Verify "
+553, New Vacancy - Clement H (Interim) ," Anywhere, Remote "," Frontend Engineering Manager, Configure & Serverless "
+554, Michael Terhar ,null, Federal Technical Account Manager 
+555, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Monitor "
+556, Valerie Karnes ," Nashville, TN, USA   "," UX Manager, CI/CD "
+557, Mike Nichols ,null," Product Designer, Verify (CI) "
+558, Matt Benzaquen ," California, USA   "," Senior Manager, Sales Strategy "
+559, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Application Security "
+560, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Application Security "
+561, New Vacancy - Dylan Griffith (interim) ," Anywhere, Remote "," Engineering Manager, Serverless "
+562, Chun Du ," Portland, OR, USA   "," Director of Engineering, Enablement "
+563, New Vacancy - Lukas E. (interim) ,null," Frontend Engineering Manager, Defend "
+564, Paul Gascou-Vaillancourt ," Montreal, QC, Canada   "," Frontend Engineer, Secure "
+565, Yolanda Feldstein ," San Antonio, TX, USA   ", Technical Account Manager 
+566, New Vacancy ," Anywhere, Remote "," Backend Engineer, Release (CD) "
+567, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Package "
+568, New Vacancy ," Anywhere, Remote "," Senior Backend Engineer, Package "
+569, New Vacancy ," Anywhere, Remote "," Backend Engineer, Manage "
+570, New Vacancy ," Anywhere, Remote "," Security Engineer, Security Operations "
+571, New Vacancy ," Anywhere, Remote ", Security Developer 
+572, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Create "
+573, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Security Research "
+574, New Vacancy - Dalia H. (Interim) ," Anywhere, Remote "," Director of Engineering, Secure "
+575, Y.K. ,null, Technical Account Manager 
+576, Kyle Smith ," Reno, NV, USA   "," Senior Security Engineer, Security Operations "
+577, New Vacancy ," Anywhere, Remote "," Backend Engineer, Memory "
+578, Craig Miskell ," Wellington, New Zealand   ", Site Reliability Engineer 
+579, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+580, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+581, New Vacancy ," APAC, Remote "," Support Agent, Gitlab.com (APAC) "
+582, New Vacancy ," Americas Central, Remote "," Support Engineer, Self-managed (Americas Central) "
+583, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Fulfillment "
+584, New Vacancy ,null," Engineering Manager, Adoption and Retention "
+585, Michael Pyle ," California, USA   ", VP of Enterprise Sales 
+586, C.T. ," Anywhere, Remote ", Implementation Engineer 
+587, David Sakamoto ," San Francisco, CA, USA   ", Vice President of Customer Success 
+588, Kerri Miller ," Seattle, WA, United States   "," Backend Engineer, Create "
+589, DÃ©sirÃ©e Chevalier ," Florida, USA   "," Test Automation Engineer, Manage "
+590, Tali Lavi ," Dublin, Ireland   "," UX Researcher, Secure & Defend "
+591, Candace Byrdsong Williams ," Knightdale, NC, USA   ", Diversity and Inclusion Partner 
+592, Ken McKnight ," San Jose, CA, USA   ", Solutions Architect 
+593, Tim Rizzi ," Los Angeles, USA   "," Senior Product Manager, Package "
+594, Aleksandr Soborov ," Kansas City, KS, USA   "," Test Automation Engineer, Secure "
+595, Evan Whelchel ," Chapel Hill, NC, USA   ", Senior Director of Revenue Marketing 
+596, Sarah Waldner ," Seattle, WA, USA   "," Product Manager, Monitor "
+597, Bernadett Gal ," Budapest, Hungary   ", Senior Candidate Experience Specialist 
+598, A.B. ,null," Account Executive, Mid-Market "
+599, Sameer Kamani ," Ashburn, USA   ", Federal Solutions Architect 
+600, Tomas Vik ," Liberec, Czech Republic   "," Backend Engineer, Gitter "
+601, V.S. ,null," Content Editor, Plan "
+602, Chris Loudon ," Middlesborough, United Kingdom   ", Sales Development Representative (EMEA) 
+603, K.M. ," Anywhere, Remote ", Sourcer 
+604, Shane Bouchard ,null," UX Manager, Dev "
+605, P.N. ,null, Federal Strategic Account Leader - Civilian 
+606, M.P. ,null, Staff Technical Writer 
+607, Morgan Wilkins ," Denver, CO, USA   ", People Operations Analyst  
+608, Fabio Pitino ," Dublin, Ireland   "," Senior Backend Engineer, Verify (CI) "
+609, Sue Bostrom ," San Francisco, CA, USA   ", Board of Directors 
+610, J.B. ,null," Senior Manager, Sales Systems "
+611, Steven Wilson ," Atlanta, Georgia, USA   "," Engineering Manager, Distribution "
+612, M.H. ,null," Frontend Engineer, Plan "
+613, Eli Kastelein ," Vancouver, BC, Canada   "," Data Analyst, Growth "
+614, S.M. ,null," Senior Frontend Engineer, Create "
+615, N. S. ," Anywhere, Remote "," Product Manager, Secure "
+616, Daniel Croft ," San Diego, CA, USA   "," Engineering Manager, Package "
+617, Craig Furman ," London, United Kingdom   ", Senior Site Reliability Engineer 
+618, Jake Sorensen ," US East/Central, Remote "," Field Marketing Manager, US East  "
+619, R.W. ," Washington D.C., Remote "," Federal Strategic Account Leader, Civilian DOE, Commerce, DOT, NASA (Washington, D.C.) "
+620, Sara Kassabian ," Oakland, CA, USA   ", Content Editor 
+621, C.d.W. ," Anywhere, Remote "," Staff Security Analyst, Anti-Abuse "
+622, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Release "
+623, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Verify "
+624, New Vacancy - Christie Lenneville (Interim) ,null," UX Manager, Ops "
+625, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Application Security "
+626, New Vacancy ," Anywhere, Remote "," Senior Security Analyst, Compliance "
+627, New Vacancy ," Anywhere, Remote "," Senior Security Analyst, Compliance "
+628, New Vacancy ," Anywhere, Remote "," Backend Engineer, Release (CD) "
+629, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Secure "
+630, New Vacancy ," Anywhere, Remote "," Backend Engineer, Create "
+631, New Vacancy ," Anywhere, Remote "," Test Automation Engineer, Enablement "
+632, New Vacancy ," Anywhere, Remote "," Security Engineer, Security Operations "
+633, New Vacancy ,null," Backend Engineer, Secure "
+634, New Vacancy ,null," Backend Engineer, Defend "
+635, New Vacancy ," Anywhere, Remote ", Vice President of Product 
+636, New Vacancy ," Anywhere, Remote "," Intermediate (or Senior) Product Manager, Verify "
+637, New Vacancy ," Anywhere, Remote "," Backend Engineer, Monitor "
+638, New Vacancy - Dalia H. (Interim) ," Anywhere, Remote "," Director of Engineering, Defend "
+639, New Vacancy ,null," Product Designer, Package "
+640, New Vacancy ," Anywhere, Remote "," Backend Engineer, Memory "
+641, New Vacancy ," Anywhere, Remote ", Site Reliability Engineer 
+642, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+643, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+644, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+645, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+646, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Fulfillment "
+647, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Adoption "
+648, New Vacancy ," Anywhere, Remote ", Sr. Visual Designer/Illustrator 
+649, K.B. ," Anywhere, Remote ", Federal Area Sales Manager DOD 
+650, S.W. ," Remote, USA   ", VP of Product 
+651, Z.G. ,null, Finance Business Partner 
+652, G.H. ," Remote, USA   ", Senior Distribution Engineer 
+653, M.T. ," Remote, Anywhere "," Sales Development Representative, US West "
+654, A.F. ," Anywhere, Remote ","  Implementation Engineer, EMEA "
+655, P.P. ," Anywhere, Remote ","  Implementation Engineer, EMEA "
+656, M.K. ,null," Backend Engineer, Create "
+657, K.S. ," Americas - East, Remote ", Sales Development Representative 
+658, P.D. ," Americas - East, Remote ", Solutions Architect 
+659, S.S. ," EMEA, Remote "," Strategic Account Leader, EMEA "
+660, T.B. ,null, Strategic Account Leader 
+661, F.Z. ," Anywhere, Remote "," Senior Product Manager, Geo "
+662, M.R. ,null," Senior Security Engineer, Automation "
+663, Corrina Stasik ,null," Product Manager, Release "
+664, S.K. ," Remote, USA   ", Senior Recruiter 
+665, Kai Armstrong ," San Antonio, TX, USA   "," Product Manager, Create "
+666, J.B. ,null," Strategic Account Leader (Atlanta), Create "
+667, M.S. ," Anywhere, Remote ", Senior Site Reliability Engineer 
+668, A.K. ,null," Strategic Account Leader, EMEA "
+669, V.S. ,null," Support Engineer, Self-managed (EMEA) "
+670, P.Z. ,null," Support Engineer, Self-managed (Americas Central) "
+671, C.V. ," EMEA, Remote ", Sales Development Representative (EMEA) 
+672, Karlia Kue ," Anywhere, Remote ", Business Systems Analyst 
+673, J.R. ,null, Area Sales Manager (West) 
+674, A.C. ,null, Area Sales Manager (West) 
+675, R.B. ," Anywhere, Remote ", Mid Market Account Executive 
+676, D.P. ," Anywhere, Remote ", Mid Market Account Executive 
+677, R.G. ," Anywhere, Remote "," Mid Market Account Executive, LATAM "
+678, M.J. ,null, SMB Customer Advocate (US West) 
+679, J.P ,null, Area Sales Manager (MidMarket) 
+680, Lorna Webster ," Atlanta, GA, USA   "," People Business Partner, Sales "
+681, V.T. ,null," Manager, Technical Account Managers (West) "
+682, G.Z. ," EMEA, Remote ", Business Development Rep (EMEA) 
+683, J.T. ," Anywhere, Remote ", Senior Marketing Program Manager 
+684, E.G. ,null," Backend Engineer, Plan "
+685, D.W. ,null, Director of Marketing Operations 
+686, New Vacancy - Daniel Gruesso (interim) ," Anywhere, Remote "," Senior Product Manager, Serverless "
+687, New Vacancy - Eric Brinkman (Interim) ," Anywhere, Remote "," Senior Product Manager, Plan "
+688, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Growth "
+689, A.O.T. ," Anywhere, Remote ", Mid Market Account Executive (EMEA) 
+690, S.L. ," Anywhere, Remote ", Mid Market Account Executive 
+691, N.N. ," Anywhere, Remote ", Site Reliability Engineer 
+692, C.C. ," Anywhere, Remote ", Director of Global Risk and Compliance 
+693, New Vacancy ," Anywhere, Remote "," Software Engineer, Gitter "
+694, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Application Security "
+695, New Vacancy ," Anywhere, Remote "," Senior Security Analyst, Compliance "
+696, New Vacancy - Mek Stittri (Interim) ," Anywhere, Remote "," Quality Engineering Manager, Engineering Productivity "
+697, New Vacancy - Eric Brinkman (Interim) ," Anywhere, Remote "," Director of Product, Growth "
+698, New Vacancy - Thomas W. (Interim) ,null," Engineering Manager, Secure "
+699, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Defend "
+700, New Vacancy ," Anywhere, Remote "," Senior Software Engineer, Distribution "
+701, New Vacancy ," Anywhere, Remote "," Backend Engineer, Package "
+702, New Vacancy ," Anywhere, Remote "," Backend Engineer, Serverless "
+703, New Vacancy ," Anywhere, Remote "," Security Engineer, Security Operations "
+704, New Vacancy - Jan Urbanc (Interim) ," Anywhere, Remote "," Security Manager, Red Team "
+705, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Red Team "
+706, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Red Team "
+707, New Vacancy - Eric Brinkman (interim) ," Anywhere, Remote "," Senior Product Manager, Distribution "
+708, New Vacancy ,null," Backend Engineer, Secure "
+709, New Vacancy ,null," Backend Engineer, Defend "
+710, New Vacancy - Jason Lenny (Interim) ," Anywhere, Remote "," Senior Product Manager, Release "
+711, New Vacancy ," Anywhere, Remote "," Backend Engineer, Verify (CI) "
+712, New Vacancy ,null," Senior UX Researcher, Ops & CI/CD "
+713, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Ecosystem "
+714, New Vacancy ," Anywhere, Remote ", Sourcer 
+715, New Vacancy ," Anywhere, Remote ", Sourcer 
+716, New Vacancy - Eric Brinkman (Interim) ," Anywhere, Remote "," Director of Product, Enablement "
+717, New Vacancy ," Anywhere, Remote "," Backend Engineer, Memory "
+718, New Vacancy ," Americas Central, Remote "," Support Agent, Gitlab.com (Americas Central) "
+719, New Vacancy ," EMEA, Remote ", Support Engineering Manager (EMEA) 
+720, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+721, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Distribution "
+722, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Adoption "
+723, New Vacancy ," Anywhere, Remote "," Senior (or Intermediate) Product Manager, Secure "
+724, New Vacancy - Kenny Johnston (interim) ," Anywhere, Remote "," Senior Product Manager, Monitor "
+725, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Growth "
+726, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Monitor "
+727, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Application Security "
+728, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Application Security "
+729, New Vacancy ," Anywhere, Remote "," Senior Security Analyst, Compliance "
+730, New Vacancy - Mek Stittri (Interim) ," Anywhere, Remote "," Quality Engineering Manager, Ops & CI/CD "
+731, New Vacancy - Kenny Johnston (Interim) ," Anywhere, Remote "," Director of Product, Secure "
+732, New Vacancy - Thomas W. (Interim) ,null," Engineering Manager, Defend "
+733, New Vacancy - ZJ (Interim) ," Anywhere, Remote "," Engineering Manager, Gitaly "
+734, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Defend "
+735, New Vacancy ," Anywhere, Remote "," Backend Engineer, Create "
+736, New Vacancy ," Anywhere, Remote "," Backend Engineer, Serverless "
+737, New Vacancy ," Anywhere, Remote "," Backend Engineer, Serverless "
+738, New Vacancy ," Anywhere, Remote "," Security Engineer, Security Operations "
+739, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Red Team "
+740, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Memory "
+741, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Dogfood Coach "
+742, New Vacancy ,null," Backend Engineer, Secure "
+743, New Vacancy ,null," Backend Engineer, Secure "
+744, New Vacancy ,null," Backend Engineer, Defend "
+745, New Vacancy ,null," Backend Engineer, Defend "
+746, New Vacancy ," Anywhere, Remote "," Backend Engineer, Monitor "
+747, New Vacancy ," Anywhere, Remote "," Backend Engineer, Plan "
+748, New Vacancy ,null," Product Designer, Secure "
+749, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Plan "
+750, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Growth "
+751, New Vacancy ," Anywhere, Remote ", Database Reliability Engineer 
+752, New Vacancy ," Anywhere, Remote "," Backend Engineer, Memory "
+753, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+754, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+755, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+756, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+757, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Geo "
+758, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Retention "
+759, New Vacancy ," Anywhere, Remote "," Senior Security Engineer, Application Security "
+760, New Vacancy - Kenny Johnston (Interim) ," Anywhere, Remote "," Director of Product, Defend "
+761, New Vacancy - Darby F. (Interim) ," Anywhere, Remote "," Engineering Manager, Release (CD) "
+762, New Vacancy ," Anywhere, Remote "," Backend Engineer, Release (CD) "
+763, New Vacancy - Thomas W. (Interim) ,null," Engineering Manager, Defend "
+764, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Secure "
+765, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Defend "
+766, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Package "
+767, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Plan "
+768, New Vacancy ," Anywhere, Remote "," Backend Engineer, Manage "
+769, New Vacancy ," Anywhere, Remote "," Test Automation Engineer, Enablement "
+770, New Vacancy ,null," Backend Engineer, Secure "
+771, New Vacancy ,null," Backend Engineer, Defend "
+772, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Create "
+773, New Vacancy - Seth Engelhard (interim) ," Anywhere, Remote "," Engineering Manager, Monitor APM "
+774, New Vacancy ," Anywhere, Remote "," Backend Engineer, Verify (CI) "
+775, New Vacancy ,null," Product Designer, Plan "
+776, New Vacancy ,null," Product Designer, Defend "
+777, New Vacancy ,null," Product Designer, Configure "
+778, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Create "
+779, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Growth "
+780, New Vacancy ," Anywhere, Remote "," Backend Engineer, Fulfillment "
+781, New Vacancy ," Americas Central, Remote "," Support Agent, Gitlab.com (Americas Central) "
+782, New Vacancy ," APAC, Remote ", Support Engineering Manager (APAC) 
+783, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+784, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+785, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+786, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Ecosystem "
+787, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Retention "
+788, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Defend "
+789, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Monitor "
+790, New Vacancy - Thomas W. (Interim) ,null," Engineering Manager, Defend "
+791, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Defend "
+792, New Vacancy ," Anywhere, Remote "," Backend Engineer, Create "
+793, New Vacancy ," Anywhere, Remote "," Test Automation Engineer, Secure "
+794, New Vacancy ,null," Backend Engineer, Secure "
+795, New Vacancy ,null," Backend Engineer, Defend "
+796, New Vacancy ," Anywhere, Remote "," Backend Engineer, Monitor "
+797, New Vacancy ," Anywhere, Remote "," Backend Engineer, Plan "
+798, New Vacancy - Chun D. (Interim) ,null," Engineering Manager, Memory "
+799, New Vacancy ,null," Product Designer, Release (CD) & Verify (CI) "
+800, New Vacancy ,null," Product Designer, Growth "
+801, New Vacancy ,null," Product Designer, Growth "
+802, New Vacancy ,null," Senior UX Researcher, Enablement & Growth "
+803, New Vacancy ," Anywhere, Remote "," Backend Engineer, Fulfillment "
+804, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+805, New Vacancy ," Americas East, Remote ", Support Engineering Manager (Americas East) 
+806, New Vacancy ," Americas Central, Remote "," Support Engineer, Self-managed (Americas Central) "
+807, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+808, New Vacancy ," EMEA, Remote "," Support Agent, Gitlab.com (EMEA) "
+809, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Activation "
+810, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Secure "
+811, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Defend "
+812, New Vacancy ," Anywhere, Remote "," Senior Backend Engineer, Release (CD) "
+813, New Vacancy ," Anywhere, Remote "," Test Automation Engineer, Secure "
+814, New Vacancy ," Anywhere, Remote "," Engineer, Engineering Productivity "
+815, New Vacancy ,null," Backend Engineer, Secure "
+816, New Vacancy ,null," Backend Engineer, Defend "
+817, New Vacancy ," Anywhere, Remote "," Senior (or Intermediate) Product Manager, Defend "
+818, New Vacancy ," Anywhere, Remote "," Backend Engineer, Plan "
+819, New Vacancy - Chun D. (Interim) ,null," Frontend Engineering Manager, Fulfillment & Distribution & Geo & Ecosystem "
+820, New Vacancy ,null," Product Designer, Monitor "
+821, New Vacancy ,null," Product Designer, Distribution "
+822, New Vacancy ,null," Product Designer, Geo "
+823, New Vacancy ," Anywhere, Remote "," Senior (or Intermediate) Product Manager, Plan "
+824, New Vacancy ," Anywhere, Remote "," Backend Engineer, Fulfillment "
+825, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+826, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+827, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+828, New Vacancy ," Americas West, Remote ", Support Engineering Manager (Americas West) 
+829, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+830, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Activation "
+831, New Vacancy - Valerie Karnes (Interim) ,null," UX Manager, Secure "
+832, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Configure & Serverless "
+833, New Vacancy ," Anywhere, Remote "," Backend Engineer, Release (CD) "
+834, New Vacancy ," Anywhere, Remote "," Backend Engineer, Create "
+835, New Vacancy ," Anywhere, Remote "," Test Automation Engineer, Release "
+836, New Vacancy ," Anywhere, Remote "," Engineer, Engineering Productivity "
+837, New Vacancy ,null," Backend Engineer, Defend "
+838, New Vacancy ,null," Backend Engineer, Defend "
+839, New Vacancy ," Anywhere, Remote "," Senior Product Manager, Defend "
+840, New Vacancy ," Anywhere, Remote "," Backend Engineer, Monitor "
+841, New Vacancy - Chun D. (Interim) ,null," Engineering Manager, Ecosystem "
+842, New Vacancy ,null," Product Designer, Ecosystem "
+843, New Vacancy ," Anywhere, Remote "," Backend Engineer, Ecosystem "
+844, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+845, New Vacancy ," Americas Central, Remote "," Support Engineer, Self-managed (Americas Central) "
+846, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+847, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+848, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+849, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Upsell "
+850, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Manage "
+851, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Monitor "
+852, New Vacancy - S.B. (Interim) ,null," UX Manager, Enablement & Growth "
+853, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Secure "
+854, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Package "
+855, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Plan "
+856, New Vacancy ," Anywhere, Remote "," Backend Engineer, Manage "
+857, New Vacancy ," Anywhere, Remote "," Test Automation Engineer, Monitor "
+858, New Vacancy ,null," Backend Engineer, Secure "
+859, New Vacancy ,null," Backend Engineer, Defend "
+860, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Create "
+861, New Vacancy ," Anywhere, Remote "," Backend Engineer, Verify (CI) "
+862, New Vacancy ," Anywhere, Remote "," Backend Engineer, Plan "
+863, New Vacancy ,null," Product Designer, Fulfillment "
+864, New Vacancy ," Anywhere, Remote "," Backend Engineer, Ecosystem "
+865, New Vacancy ," Americas East, Remote ", Support Engineering Manager (Americas East) 
+866, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+867, New Vacancy ," Americas East, Remote "," Support Engineer, Self-managed (Americas East) "
+868, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+869, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+870, New Vacancy ," Anywhere, Remote "," Fullstack Engineer, Upsell "
+871, New Vacancy ," Anywhere, Remote "," Frontend Engineer, Configure & Serverless "
+872, New Vacancy ," Anywhere, Remote "," Operations Analyst, Infrastructure "
+873, New Vacancy - Elliot R. (Interim) ," Anywhere, Remote "," Engineering Manager, Verify (CI) "
+874, New Vacancy ," Anywhere, Remote "," Backend Engineer, Release (CD) "
+875, New Vacancy ," Anywhere, Remote "," Backend Engineer, Create "
+876, New Vacancy ," Anywhere, Remote "," Test Automation Engineer, Verify & Configure "
+877, New Vacancy ," APAC, Remote ", Field Marketing Manager 
+878, New Vacancy ," APAC, Remote ", Sales Development Representative 
+879, New Vacancy ," EMEA, Remote ", Sales Development Representative 
+880, New Vacancy ," EMEA, Remote ", Solutions Architect 
+881, New Vacancy ," Anywhere, Remote "," Product Marketing Manager, Technical Specialist "
+882, New Vacancy ," APAC, Remote ", Business Development Representative 
+883, New Vacancy ," US Timezones, Remote ", Federal Strategic Account Leader - DoD - US Army 
+884, New Vacancy ," San Diego, CA, Remote ", Strategic Account Leader 
+885, New Vacancy ," Silicon Valley, Remote ", Strategic Account Leader 
+886, New Vacancy ," Remote, Remote ", VP Mid-Market and SMB Sales 
+887, New Vacancy ," Remote, Remote "," Account Manager, EMEA "
+888, New Vacancy ," Anywhere, Remote ", Web Content Manager 
+889, New Vacancy ," Anywhere, Remote ", Strategic Account Leader (San Diego Area) 
+890, New Vacancy ," Anywhere, Remote ", General Ledger Accountant 
+891, New Vacancy ," EMEA, Remote ", People Operations Generalist 
+892, New Vacancy ," Anywhere, Remote "," Backend Engineer, Monitor "
+893, New Vacancy ," Anywhere, Remote "," Backend Engineer, Plan "
+894, New Vacancy - Dalia H. (Interim) ," Anywhere, Remote "," Director of Engineering, CI/CD "
+895, New Vacancy ,null," Product Designer, Defend "
+896, New Vacancy ,null," Product Designer, Staff "
+897, New Vacancy ,null, Illustrator 
+898, New Vacancy ," Washington, DC, Remote "," Field Marketing Manager, US Public Sector "
+899, New Vacancy ," Anywhere, Remote "," Public Sector Strategic Account Leader, State and Local "
+900, New Vacancy ," Americas/EMEA Timezones, Remote "," Technical Product Marketing Manager, Create "
+901, New Vacancy ," Americas/EMEA Timezones, Remote "," Product Marketing Manager, Monitoring, Create "
+902, New Vacancy ," Chicago, IL, USA, Remote "," Strategic Account Leader (Chicago), Create "
+903, New Vacancy ," Anywhere, Remote "," Backend Engineer, Infrastructure "
+904, New Vacancy ," Anywhere, Remote ", Site Reliability Engineer 
+905, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+906, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+907, New Vacancy ," Americas Central, Remote "," Support Engineer, Self-managed (Americas Central) "
+908, New Vacancy ," Americas Central, Remote "," Support Engineer, Self-managed (Americas Central) "
+909, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+910, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+911, New Vacancy ," Americas West, Remote "," Support Engineer, Self-managed (Americas West) "
+912, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+913, New Vacancy ," EMEA, Remote "," Support Engineer, Self-managed (EMEA) "
+914, New Vacancy ," APAC, Remote "," Support Engineer, Self-managed (APAC) "
+915, New Vacancy - Clement H (Interim) ," Anywhere, Remote "," Frontend Engineering Manager, Monitor "
+916, New Vacancy ," Anywhere, Remote "," Engineering Manager, Release "
+917, New Vacancy ," Anywhere, Remote "," Engineering Manager, Create "
+918, New Vacancy ," Anywhere, Remote "," Engineering Manager, Verify "
+919, New Vacancy ," Anywhere, Remote "," Engineering Manager, Plan "
+920, New Vacancy ," Anywhere, Remote "," Backend Engineer, Security Engineering Team "
+921, New Vacancy ," Central or East, Remote ", Sales Development Representative (Central or East) 
+922, New Vacancy ," Anywhere, Remote ", Culture Curator 
+923, New Vacancy ," US East, Remote ", Area Sales Manager (US East) 
+924, New Vacancy ," Minneapolis Area, Remote ", Strategic Account Leader (Minneapolis Area) 
+925, New Vacancy ," Anywhere, Remote ", Manager of Solutions Architects 
+926, New Vacancy ," Anywhere, Remote "," Product Marketing Manager, Regulated Industries Specialist (Public Sector & Financial Services)  "
+927, New Vacancy ," Anywhere, Remote ", Federal Implementation Engineer 
+928, New Vacancy ," Anywhere, Remote ", Technology Partner Manager 
+929, New Vacancy ," EMEA, Remote ", Mid Market Account Executive (EMEA) 
+930, New Vacancy ," US Central, Remote ", SMB Customer Advocate (US Central) 
+931, New Vacancy ," US East, Remote ", SMB Customer Advocate (US East) 
+932, New Vacancy ," Washington DC Metro Area, Remote "," Federal Strategic Account Leader, Civilian DHS/DOJ/DOS "
+933, New Vacancy ," Anywhere, Remote ", Area Sales Manager (SMB) 
+934, New Vacancy ," San Francisco, Remote ", Strategic Account Leader (San Francisco) 
+935, New Vacancy ," Seattle, Remote ", Strategic Account Leader (Seattle) 
+936, New Vacancy ," EMEA, Remote ", Area Sales Manager (EMEA) 
+937, New Vacancy ," EMEA, Remote ", SMB Customer Advocate (EMEA) 
+938, New Vacancy ," APAC, Remote ", SMB Customer Advocate (APAC) 
+939, New Vacancy ," LATAM, Remote ", SMB Customer Advocate (LATAM) 
+940, New Vacancy ," Australia, Remote ", Solutions Architect (Australia) 
+941, New Vacancy ," Anywhere, Remote "," Sr. Manager, Sales Strategy "
+942, New Vacancy ," EMEA, Remote "," Manager, Customer Experience (EMEA)  "
+943, New Vacancy ," North America, Remote "," Manager, Customer Experience (North America) "
+944, New Vacancy ," APAC, Remote ", Technical Account Manager (APAC) 
+945, New Vacancy ," APAC, Remote ", Solutions Architect (APAC) 
+946, New Vacancy ," Toronto, Remote ", Strategic Account Leader (Toronto)  
+947, New Vacancy ," Anywhere, Remote ", Deal Desk Manager 
+948, New Vacancy ," Anywhere, Remote ", PR Manager 
+949, New Vacancy ," Dublin, Remote "," People Business Partner, Engineering "
+950, New Vacancy ," North America, Remote ", Field Marketing Coordinator (NAM) 
+951, New Vacancy ," Americas, Remote ", Full Stack Engineer - Website 
+952, New Vacancy ," Anywhere, Remote ", Technical Accounting Manager 
+953, New Vacancy ," EMEA, Remote ", Field Marketing Coordinator (EMEA) 
+954, New Vacancy ," US West, Remote ", Sales Development Representative (US West) 
+955, New Vacancy ," San Francisco, CA, Remote ", Chief People Officer (SFO) 
+956, New Vacancy ," Washington D.C., Remote "," Federal Strategic Account Leader, Civilian DOE, Commerce, DOT, NASA (Washington, D.C.) "
+957, New Vacancy ," US East, Remote "," Federal Strategic Account Leader, Civilian DOE, Commerce, DOT, NASA (Washington, D.C.) "
+958, New Vacancy ," India, Remote "," Federal Strategic Account Leader, Civilian DOE, Commerce, DOT, NASA (Washington, D.C.) "
+959, New Vacancy ," Anywhere, Remote "," Federal Strategic Account Leader, Civilian DOE, Commerce, DOT, NASA (Washington, D.C.) "
+960, New Vacancy ," Central US, Remote "," Federal Strategic Account Leader, Civilian DOE, Commerce, DOT, NASA (Washington, D.C.) "
+961, New Vacancy ," Anywhere, Remote ", Technical Evangelism Program Manager 
+962, New Vacancy ," New York City, Remote ", Solutions Architect (Mid Market) 
+963, New Vacancy ," Atlanta, Remote ", Solutions Architect (Mid Market) 
+964, New Vacancy ," San Fransisco, Remote ", Solutions Architect (Mid Market) 
+965, New Vacancy ," Boston, Remote ", Solutions Architect (Mid Market) 
+966, New Vacancy ," Raleigh, Remote ", Solutions Architect (Mid Market) 
+967, New Vacancy ," San Diego, Remote ", Solutions Architect (Mid Market) 
+968, New Vacancy ," Portland, Remote ", Solutions Architect (Mid Market) 
+969, New Vacancy ," Seattle, Remote ", Solutions Architect (US West Enterprise) 
+970, New Vacancy ," Portland, Remote ", Solutions Architect (US West Enterprise) 
+971, New Vacancy ," Orange County, Remote ", Solutions Architect (US West Enterprise) 
+972, New Vacancy ," San Diego, Remote ", Solutions Architect (US West Enterprise) 
+973, New Vacancy ," Los Angeles, Remote ", Solutions Architect (US West Enterprise) 
+974, New Vacancy ," Phoenix, Remote ", Solutions Architect (US West Enterprise) 
+975, New Vacancy ," Las Vegas, Remote ", Solutions Architect (US West Enterprise) 
+976, New Vacancy ," Denver, Remote ", Solutions Architect (US West Enterprise) 
+977, New Vacancy ," Chicago, Remote ", Solutions Architect (US West Enterprise) 
+978, New Vacancy ," Detroit, Remote ", Solutions Architect (US West Enterprise) 
+979, New Vacancy ," Indianapolis, Remote ", Solutions Architect (US West Enterprise) 
+980, New Vacancy ," Toronto, Remote ", Solutions Architect (US West Enterprise) 
+981, New Vacancy ," New York City, Remote ", Solutions Architect (US West Enterprise) 
+982, New Vacancy ," Dublin, Remote ", People Operations Specialist 
+983, M.S. ," Portland, USA   ", Site Reliability Engineer 
+984, You? ," Any, Remote ", Open Roles 
